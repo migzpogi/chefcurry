@@ -1,0 +1,5 @@
+Ideas
+
+* Get weather
+* App launcher in CLI
+
