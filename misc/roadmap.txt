@@ -2,4 +2,9 @@ Ideas
 
 * Get weather
 * App launcher in CLI
+* CURL project
 
+Jade
+
+* How to display unix type design in browser
+* How to display actual content in terminal
