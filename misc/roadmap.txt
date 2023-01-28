@@ -6,5 +6,7 @@ Ideas
 
 Jade
 
-* How to display unix type design in browser
-* How to display actual content in terminal
+X How to display unix type design in browser
+X How to display actual content in terminal
+* How to display ticking clock in terminal
+  * https://stackoverflow.com/questions/37515587/run-a-basic-digital-clock-in-the-python-shell
