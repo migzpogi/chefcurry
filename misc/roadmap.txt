@@ -5,8 +5,19 @@ Ideas
 * CURL project
 
 Jade
+- Clock app
 
 X How to display unix type design in browser
 X How to display actual content in terminal
-* How to display ticking clock in terminal
+X How to display ticking clock in terminal
   * https://stackoverflow.com/questions/37515587/run-a-basic-digital-clock-in-the-python-shell
+X How to show print in terminal
+
+Navy
+- Weather App
+- https://open-meteo.com/en/docs#api_form
+
+Request for weather
+City long/lat generator
+IP Location
+  https://ipinfo.io/signup
