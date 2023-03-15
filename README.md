@@ -7,3 +7,13 @@ CURL project. Inspiration from:
 ## How To
 * `python jade\WebApp.py`
 * `curl <address>`
+
+# Navy
+Weather project.
+
+# Boba
+Unit test project
+
+## How To
+* `pytest`
+
